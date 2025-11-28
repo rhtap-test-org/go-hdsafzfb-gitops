@@ -12,5 +12,5 @@ spec:
   template:
     spec:
       containers:
-        - image: quay.io/tsscui/go-hdsafzfb:8e9d926b9d32050b17f9f7784090e0c122115d2a@sha256:e005921adb918addfc2c99061a79f0b97297766013d5c7d66093810f47411215
+        - image: quay.io/tsscui/go-hdsafzfb:a13bc11d3c68c012b5941b0ac388334a74a66e29@sha256:0718912f3fd4c29d6029bcdbbcbc407a36edc9886a136d0709f466bf85d3f563
           name: container-image
